@@ -9,23 +9,23 @@
 
 - 🌱 I’m currently learning **DSA in C++**
 
-- 👯 I’m looking to collaborate on **New project requiring C++ and DSA**
+- 👯 I’m looking to collaborate on **new projects requiring C++ and DSA**
 
-- 🤝 I’m looking for help with **Hackathons**
+- 🤝 I’m looking for help with **"Hackathons near Delhi NCR"**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ayush05G](https://github.com/Ayush05G)
+- 👨‍💻 All of my projects are available at [https://github.com/Ayush05G]
 
-- 💬 Ask me about **react,vue**
+- 💬 Ask me about **cpp,python,html**
 
 - 📫 How to reach me **ayush2425.rk@gmail.com**
 
-- ⚡ Fun fact **Fast learner and funny**
+- ⚡ Fun fact **Fast learner and Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayush gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush gupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Ayush Gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush gupta" height="30" width="40" /></a>
 <a href="https://fb.com/ayush gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayush gupta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayush5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush5g" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ayush5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ayush5G" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
