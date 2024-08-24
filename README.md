@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **"Hackathons near Delhi NCR and suggestions for good projects."**
 
-- 💬 Ask me about **Cpp, HTML, Python, MATLAB**
+- 💬 Ask me about **Cpp, HTML, Python, MATLAB.**
 
 - 📫 How to reach me **ayush2425.rk@gmail.com**
 
