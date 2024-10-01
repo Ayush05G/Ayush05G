@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA in C++ and MATLAB**
 
-- 🎓 Currently working at **NSUT, Sector 3, Dwarka, Delhi**
+- 🎓 Currently working at **NSUT, Sector 3, Dwarka, Delhi.**
 
 - 👯 I’m looking to collaborate on **new projects requiring C++ and DSA.**
 
