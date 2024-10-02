@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Making my first DSA project.**
 
-- 🌱 I’m currently learning **DSA in C++ and MATLAB**
+- 🌱 I’m currently learning **DSA in C++ and MATLAB.**
 
 - 🎓 Currently working at **NSUT, Sector 3, Dwarka, Delhi.**
 
