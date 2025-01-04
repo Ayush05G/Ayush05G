@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush05g" alt="ayush05g" /></a> </p>
 
-<p align="left"> <a href="https://x.com/ag0708242506" target="blank"><img src="https://img.shields.io/x/follow/ag0708242506?logo=x&style=for-the-badge" alt="ag0708242506" /></a> </p>
+<p align="left"> <a href="https://x.com/ag0708242506" target="blank"><img src="https://img.shields.io/twitter/follow/ag0708242506?logo=twitter&style=for-the-badge" alt="ag0708242506" /></a> </p>
 
 - 🔭 I’m currently working to master **Dynamic Programming.**
 
