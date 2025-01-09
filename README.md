@@ -13,7 +13,7 @@
 
 - 🎓 Currently studying at **NSUT, Sector 3, Dwarka, Delhi**
 
-- 👯 I’m looking to collaborate on **new projects requiring C++ and DSA.**
+- 👯 I’m looking to collaborate on **new projects requiring Frontend Development & DSA.**
 
 - 🤝 I’m looking for help with **"Hackathons near Delhi NCR and suggestions for good projects."**
 
