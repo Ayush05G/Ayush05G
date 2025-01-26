@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working to master **Dynamic Programming.**
 
-- 🌱 I’m currently learning **DSA in C++ and DBMS.**
+- 🌱 I’m currently learning **DSA, Web Development and DBMS.**
 
 - 🎓 Currently studying at **NSUT, Sector 3, Dwarka, Delhi**
 
