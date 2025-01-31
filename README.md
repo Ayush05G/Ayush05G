@@ -23,17 +23,12 @@
 
 - ⚡ Fun fact **Fast learner and funny**
 
-  ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ag0708242506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ag0708242506" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ayush-gupta-17b3112a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/ayush_gupta.5242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush_gupta.5242" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayush5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush5g" height="30" width="40" /></a>
-<a href="https://medium.com/@cayush2425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cayush2425" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ayush2tr7h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayush2tr7h" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ayush2425_rk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayush2425_rk" height="30" width="40" /></a>
 </p>
