@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working to master **Data Structure and Algorithms.**
 
-- 🌱 I’m currently learning **DSA, Web Development and DBMS.**
+- 🌱 I’m currently learning **Web Development and DBMS.**
 
 - 🎓 Currently studying at **NSUT, Sector 3, Dwarka, Delhi**
 
