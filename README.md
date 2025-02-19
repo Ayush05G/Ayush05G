@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working to master **Competitive Programming**
 
-- 🌱 I’m currently learning **Web Development and DBMS.**
+- 🌱 I’m currently learning **Web Developmentand DBMS.**
 
 - 🎓 Currently studying at **NSUT, Sector 3, Dwarka, Delhi**
 
