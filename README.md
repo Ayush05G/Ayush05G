@@ -25,7 +25,7 @@ I'm a third-year Electrical Engineering student who lives at the intersection of
 
 ## Experience & Roles
 
-**Brand Marketing · CashKaro** &nbsp;`Active`
+**Brand Marketing · CashKaro**
 > Driving user growth on campus, running activations and growth experiments
 
 **Executive Committee · NSUT PM Club**
