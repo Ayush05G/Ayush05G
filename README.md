@@ -11,19 +11,22 @@
 
 ## Who I am
 
-I'm a third-year Electrical Engineering student who lives at the intersection of **product thinking and technical execution**. I run case study sessions at NSUT's PM Club, ship side projects as an engineer, and think deeply about how digital products — especially in fintech — can be made more useful and more human.
+I'm a final-year Electrical Engineering student who lives at the intersection of **product thinking and technical execution**. I'm currently an APM intern in fintech, run case study sessions at NSUT's PM Club, ship side projects as an engineer, and think deeply about how digital products — especially in fintech — can be made more useful and more human.
 
 ---
 
 ## At a Glance
 
-| 500+ DSA Problems | 1 Published ML Paper | 3rd Year EE @ NSUT |
+| 500+ DSA Problems | 1 Published ML Paper | Final Year EE @ NSUT |
 |:-:|:-:|:-:|
 | Across LeetCode, GFG, CodeChef | Physics Scripta journal | Expected graduation 2027 |
 
 ---
 
 ## Experience & Roles
+
+**Associate Product Manager Intern · Bachatt (Fintech)**
+> Driving product work — research, specs, and execution — at an early-stage fintech
 
 **Brand Marketing · CashKaro**
 > Driving user growth on campus, running activations and growth experiments
@@ -59,6 +62,7 @@ Market entry plan + financial model for a fictional wearables company, covering 
 
 | Project | What it does |
 |---|---|
+| 📈 **Equity Research Assistant** · [live demo](https://equity-research-assistant-eta.vercel.app) | AI-powered NSE stock research — live price/fundamentals/news plus Gemini-generated briefs with a Buy/Sell rating and analyst-grounded 12-month price target. Next.js + TypeScript, Supabase, deployed on Vercel |
 | 💸 **FinSplit** | UPI expense tracker — split bills, settle debts, track shared spending |
 | 🎵 **Tuned** | Music streaming app with real-time playback and personalised library |
 | 💬 **Real-Time Chat App** | WebSocket-based chat with live messaging and room support |
@@ -71,13 +75,13 @@ Market entry plan + financial model for a fictional wearables company, covering 
 `Product Strategy` `User Research` `Case Frameworks` `GTM Planning` `Metrics & KPIs` `Market Sizing`
 
 **Technical**
-`C++` `Python` `JavaScript` `React` `HTML/CSS` `SQL` `MATLAB`
+`C++` `Python` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Supabase` `LLM / Gemini API` `SQL` `MATLAB`
 
 ---
 
 ## Currently
 
-- 🎯 Actively looking for **APM internship opportunities**, especially in fintech
+- 💼 Interning as an **Associate Product Manager at Bachatt** (fintech)
 - 📚 Deepening SQL, product metrics, and structured case-solving
 - 🏏 Following IPL closely and managing a fantasy team with too much analysis
 - 🎮 Occasionally losing at Skribbl.io
@@ -86,7 +90,7 @@ Market entry plan + financial model for a fictional wearables company, covering 
 
 ## Let's Connect
 
-If you're working on something interesting in fintech, edtech, or consumer apps — or know of APM opportunities — I'd love to talk.
+If you're working on something interesting in fintech, edtech, or consumer apps — or just want to talk product — I'd love to chat.
 
 📩 [ayush2425.rk@gmail.com](mailto:ayush2425.rk@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ayush-gupta-17b3112a2)
 
